@@ -27,7 +27,7 @@ export const Rating = () => {
           <input name="rating" type="radio" value="4"/>
           4
         </label>
-        <label htmlFor="five">
+        <label htmlFor="five" id="five">
           <input name="rating" type="radio" value="5"/>
           5
         </label>

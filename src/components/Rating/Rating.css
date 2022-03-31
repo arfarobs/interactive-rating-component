@@ -73,3 +73,50 @@ button {
   background: #FC7614;
   text-transform: uppercase;
 }
+
+@media only screen and (min-width: 768px) {
+  img {
+    padding: 16px;
+  }
+
+  h1 {
+    font-size: 28px;
+    line-height: 35px;
+    margin: 30px 0 7px;
+  }
+
+  p {
+    font-size: 15px;
+    line-height: 24px;
+  }
+
+  form {
+    max-width: 341px;
+  }
+
+  label {
+    width: 51px;
+    height: 51px;
+    font-family: 'Overpass';
+    font-size: 16px;
+    letter-spacing: 0.2px;
+    margin: 24px 21.5 32px 0;
+  }
+
+  input {
+    width: 51px;
+    height: 51px;
+  }
+
+  #five {
+    margin-right: 0;
+  }
+
+  button {
+    max-width: 341px;
+    padding: 11px 0;
+    font-size: 15px;
+    line-height: 19px;
+    letter-spacing: 2px;
+  }
+}
