@@ -1,11 +1,11 @@
 import './App.css';
 import { Rating } from '../Rating/Rating';
-import Thanks from '../Thanks/Thanks';
+import { Thanks } from '../Thanks/Thanks';
 
 function App() {
   return (
     <article>
-      <Rating />
+      <Thanks />
     </article>
   );
 }
