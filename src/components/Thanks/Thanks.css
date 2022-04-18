@@ -12,6 +12,8 @@
   border-radius: 22.5px;
   background: #262E38;
   padding: 5px 12px;
+  width: fit-content;
+  margin: 0 auto;
 }
 
 h2 {
@@ -24,4 +26,24 @@ h2 {
 
 .support {
   margin-bottom: 5px;
+}
+
+@media only screen and (min-width: 768px) {
+  .phone {
+    margin: 12px auto 32px;
+  }
+
+  .selected {
+    padding: 4px 19.5px;
+  }
+
+  h2 {
+    margin: 32px 0 7px;
+    font-size: 28px;
+    line-height: 35px;
+  }
+
+  .support {
+    margin: 0 1px 12px 0;
+  }
 }
