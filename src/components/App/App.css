@@ -10,7 +10,7 @@ article {
 @media only screen and (min-width: 768px) {
   article {
     padding: 32px 39px 32px 32px;
-    margin: 4px 0 0;
+    margin: 5px 0 0;
     border-radius: 30px;
     max-width: 412px;
     min-height: 416px;
