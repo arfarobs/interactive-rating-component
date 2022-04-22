@@ -97,8 +97,6 @@ button:hover, button:focus-visible {
     font-size: 28px;
     line-height: 35px;
     margin: 30px 0 7px;
-    padding-top: 1px;
-    height: 42px;
   }
 
   p {
