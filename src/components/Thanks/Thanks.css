@@ -1,5 +1,6 @@
-.thanks {
+#thanks {
   text-align: center;
+  display: none;
 }
 
 .phone {
