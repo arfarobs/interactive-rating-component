@@ -11,7 +11,7 @@ export const Rating = (props) => {
         to help us improve our offering!
       </p>
       <form onSubmit={props.onSubmit}>
-        <label htmlFor="one" className="spacer label" id="one" onClick={props.onClick}>
+        <label htmlFor="one" className="spacer label" id="label-one" onClick={props.onClick}>
           <input className="input" name="rating" id="one" type="radio" value="1" onChange={props.onChange}/>
           1
         </label>
@@ -27,7 +27,7 @@ export const Rating = (props) => {
           <input className="input" name="rating" id="four" type="radio" value="4" onChange={props.onChange}/>
           4
         </label>
-        <label htmlFor="five" id="five" className="label" onClick={props.onClick}>
+        <label htmlFor="five" id="label-five" className="label" onClick={props.onClick}>
           <input className="input" name="rating" id="five" type="radio" value="5" onChange={props.onChange}/>
           5
         </label>
