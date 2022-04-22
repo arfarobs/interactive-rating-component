@@ -97,6 +97,7 @@ button:hover, button:focus-visible {
     font-size: 28px;
     line-height: 35px;
     margin: 30px 0 7px;
+    height: 43px;
   }
 
   p {
@@ -116,6 +117,12 @@ button:hover, button:focus-visible {
     letter-spacing: 0.2px;
     margin: 24px 21.5 32px 0;
   }
+
+  #label-one, .spacer {
+    margin-right: 21.5px;
+  }
+
+
 
   input {
     width: 51px;
