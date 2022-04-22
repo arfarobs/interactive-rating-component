@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-reactjs-html-js-css-mobile-first-BJQ7yK1Sc](https://www.frontendmentor.io/solutions/interactive-rating-component-reactjs-html-js-css-mobile-first-BJQ7yK1Sc)
+- Live Site URL: [https://super-snickerdoodle-387313.netlify.app/](https://super-snickerdoodle-387313.netlify.app/)
 
 ## My process
 1. Write the JSX.
